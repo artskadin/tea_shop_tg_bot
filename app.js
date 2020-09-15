@@ -70,7 +70,7 @@ bot.hears('🚀 Условия доставки и оплаты', async ctx => {
 bot.hears('🏯 Главная', async ctx => {
     try {
         // Фото логотипа магазина
-        const teaVotaryPhoto = 'AgACAgIAAxkBAAMaXuJySbrb7WB9pI4WYQ_j76o9GXcAAuSsMRsxiRlL1Pa6TferXy5SHZqVLgADAQADAgADbQADVUgAAhoE'
+        const teaVotaryPhoto = 'AgACAgIAAxkBAAIaAV9gZgY_B0Fro2TXN_mlIb8ffYRUAAJ8rjEbNAcIS9fkIsB4rGFr-_oamC4AAwEAAwIAA3kAA8SbAAIbBA'
         // Заготовленный текст
         const welcomeText = 
             'Небольшой магазинчик <i>Даймё</i> на пенсии, который занялся чайным делом. Рассказываю про постижение чайного гунфу, созидаю хокку, делюсь чаем и чайной утварью по России.\n\n'+
@@ -204,4 +204,3 @@ bot.on('text', ctx => {
 
 bot.launch()
 app.listen(3000, () => console.log('Server is running on port 3000'))
-
