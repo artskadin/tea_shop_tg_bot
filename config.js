@@ -1,6 +1,0 @@
-export const BOT_TOKEN = '1142960137:AAH5u-XlWwhkmqCuiXIpsKs28jmsNU1dsbM'
-export const client_id = '7497313'
-export const user_id = '45238429'
-export const secret_key = '4pIJsraTwkIFwYja1fXe'
-export const VK_TOKEN = '6a00b6d0e687308c49ccf2ebe7f5834bab8075b4bea2098427760ee610467809ac599ac28d6341276d14d'
-export const URL = 'https://oauth.vk.com/authorize?client_id=7497313&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=market,offline&response_type=token&v=5.107'
